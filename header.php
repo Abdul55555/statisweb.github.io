@@ -2,7 +2,7 @@
     <div class="row" style="background-color: #1E90FF; height: 40px;">
          <div class="col-sm-6">
              <!-- <div id="kiri"> -->
-                    <img src="./IMG/M. Mandžuki.png" width="4%" style="margin-top: 2px; margin-right: 10px; margin-left: 190px;">
+                    <img class="img-fluid" src="./IMG/M. Mandžuki.png" width="4%" style="margin-top: 2px; margin-right: 10px; margin-left: 190px;">
                     <a href="" style="font-size: 20px; color: white;">WEBHOZZ</a>
              <!-- </div> -->
             </div>
