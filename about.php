@@ -22,7 +22,7 @@
    		 
    		 <div class="col-md-6">
    		 
-   			 <img src="./IMG/M. Mandžuki.png" class="img-thumbnail">
+   			 <img class="img-fluid" src="./IMG/M. Mandžuki.png" class="img-thumbnail">
 
    		 </div>
 

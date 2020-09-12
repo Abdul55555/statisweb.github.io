@@ -32,13 +32,13 @@
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img class="d-block" src="./IMG/C.Marchisio.png" alt="First slide">
+                            <img class="img-fluid" src="./IMG/C.Marchisio.png" alt="First slide">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block" src="./IMG/Cristiano Ronaldo.png" alt="Second slide">
+                            <img class="img-fluid" src="./IMG/Cristiano Ronaldo.png" alt="Second slide">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block" src="./IMG/M. Mandžuki.png" alt="Third slide">
+                            <img class="img-fluid" src="./IMG/M. Mandžuki.png" alt="Third slide">
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -64,11 +64,11 @@
    		    <div class="col-sm-12" style="margin-left: 0px; text-align: center;">
    			    <span style="font-size: 40px; color: #1E90FF;">Our Alumni</span>
    			    <br><br><br>
-                <a href="" title="binus"><img src="./IMG/D.Costa.png" width="17%" style="border:2px solid #1E90FF; border-radius: 10em; margin: 0px 10px;"></a>
-                <a href="" title="binus"><img src="./IMG/D.Costa.png" width="17%" style="border:2px solid #1E90FF; border-radius: 10em; margin: 0px 10px;"></a>
+                <a href="" title="binus"><img class="img-fluid"src="./IMG/D.Costa.png" width="17%" style="border:2px solid #1E90FF; border-radius: 10em; margin: 0px 10px;"></a>
+                <a href="" title="binus"><img class="img-fluid" src="./IMG/D.Costa.png" width="17%" style="border:2px solid #1E90FF; border-radius: 10em; margin: 0px 10px;"></a>
    			    <!-- <a href="" title="Universitas Indonesia"><img src="./IMG/J. Cuadrado.png" width="17%" style="border:2px solid #1E90FF; border-radius: 10em; background: transparent;"></a> -->
-   			    <a href="" title="Epson"><img src="./IMG/D.Costa.png" width="17%" style="border:2px solid #1E90FF; border-radius: 10em; margin: 0px 10px;"></a>
-   			    <a href="" title="Kompas"><img src="./IMG/D.Costa.png" width="17%" style="border:2px solid #1E90FF; border-radius: 10em; margin: 0px 10px;"></a>
+   			    <a href="" title="Epson"><img class="img-fluid" src="./IMG/D.Costa.png" width="17%" style="border:2px solid #1E90FF; border-radius: 10em; margin: 0px 10px;"></a>
+   			    <a href="" title="Kompas"><img class="img-fluid" src="./IMG/D.Costa.png" width="17%" style="border:2px solid #1E90FF; border-radius: 10em; margin: 0px 10px;"></a>
    		    </div>
    	    </div>
     </div>
